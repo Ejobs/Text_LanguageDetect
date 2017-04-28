@@ -16,9 +16,9 @@
         }
     ],
     "autoload": {
-        "psr-4": {
-            "LanguageDetection\\": "Text"
-        }
+      "psr-0": {
+        "Text": "./"
+      }
     },
     "include-path": [
         "./"
